@@ -12,7 +12,6 @@
 Passionate about solving technical challenges, I focus on cloud computing, networking, and streamlining systems to enhance productivity and security. With hands-on experience in troubleshooting, system optimization, and cybersecurity, I thrive on resolving complex issues and delivering efficient, user-friendly solutions. My goal is to leverage technology to drive innovation, support business growth, and simplify IT processes. Constantly learning and adapting to the latest tech trends, I am committed to helping organizations succeed in a rapidly evolving digital world. Lets connect and explore how technology can transform your business!
 
 ### Knowledge Stack
-# Technical Skills
 
 <details>
 <summary>Operating Systems <button>Details</button></summary>
